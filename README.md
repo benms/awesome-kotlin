@@ -16,6 +16,4 @@ Discuss this project in [Kotlin Slack](http://slack.kotlinlang.org/), channel: *
 
 Here is the awesome badge for your project:
 
-[Awesome Kotlin Badge](https://github.com/KotlinBy/awesome-kotlin)
-
 To contribute, check [CONTRIBUTING.md](https://github.com/KotlinBy/awesome-kotlin/blob/main/.github/contributing.md).
